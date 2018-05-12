@@ -1,0 +1,43 @@
+_repo: England-and-Germany_29338
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Hughes, William Morris
+    aliases:
+    - Hughes, W. M. (William Morris)
+    - Hughes, Billy
+    birthdate: 1864
+    deathdate: 1952
+    gutenberg_agent_id: '33858'
+    url: http://www.gutenberg.org/2009/agents/33858
+    wikipedia: http://en.wikipedia.org/wiki/Billy_Hughes
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dillon, Emile Joseph
+    aliases:
+    - Dillon, E. J. (Emile Joseph)
+    - Lanin, E. B.
+    birthdate: 1855
+    deathdate: 1933
+    gutenberg_agent_id: '2691'
+    url: http://www.gutenberg.org/2009/agents/2691
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2009-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29338'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918'
+- !lcc 'D501'
+- !lcsh 'Germany -- Foreign relations'
+- !lcsh 'World War, 1914-1918 -- Economic aspects'
+title: England and Germany
+url: http://www.gutenberg.org/ebooks/29338
