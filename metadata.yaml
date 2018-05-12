@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '2691'
     url: http://www.gutenberg.org/2009/agents/2691
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29338#England-and-Germany
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2009-07-06'
 gutenberg_type: Text
